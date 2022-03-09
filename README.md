@@ -2,7 +2,8 @@
 
 This application is a joke and is a small tool useful for HRs, which I assembled after receiving a fun message on LinkedIn.
 You need to enter an HR name, a candidate name, and it will copy a program code into the clipboard.
-You can see it [here](https://gonaumov.github.io/tiny-hr-tool/).
+You can see it [here](https://gonaumov.github.io/tiny-hr-tool/)
+or watch a short demonstration video [here](https://www.tiktok.com/@georgenaumov915/video/7072976503008529670).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
